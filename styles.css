@@ -18,6 +18,8 @@ nav ul {
   border-color: silver;
   border-radius: 10px;
   padding: 10px;
+  position: fixed;
+  top: 0;
 }
 nav ul li {
   list-style-type: none;
