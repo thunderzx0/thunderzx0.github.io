@@ -30,4 +30,6 @@ nav ul li a {
 }
 #frontPage {
   background: linear-gradient(to bottom right, powderblue, skyblue);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
