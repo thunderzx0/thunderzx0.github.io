@@ -4,3 +4,12 @@ body {
   color: black;
   text-align: center;
 }
+nav ul {
+  background-color: purple;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+}
