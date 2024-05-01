@@ -10,9 +10,6 @@ img {
   border-style: solid;
   border-color: silver;
 }
-img:hover {
-  border: solid white
-}
 /* Navigation bar styling */
 nav ul {
   background-color: white;
