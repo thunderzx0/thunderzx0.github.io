@@ -11,7 +11,7 @@ img {
   border-color: silver;
 }
 img:hover {
-  border: 2px
+  border: 3px solid white
 }
 /* Navigation bar styling */
 nav ul {
