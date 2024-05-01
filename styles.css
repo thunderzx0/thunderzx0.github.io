@@ -15,10 +15,11 @@ nav ul {
 nav ul li {
   list-style-type: none;
   display: inline;
+  color: grey;
   margin-right: 10px;
   margin-left: 10px;
 }
 nav ul li a {
   text-decoration: none;
-  color: grey;
+  color: black;
 }
