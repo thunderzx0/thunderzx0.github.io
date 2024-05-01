@@ -4,10 +4,14 @@ body {
   color: black;
   text-align: center;
 }
+/* Image styling */
 img {
   border-radius: 10px;
   border-style: solid;
   border-color: silver;
+}
+img:hover {
+  border: 2px
 }
 /* Navigation bar styling */
 nav ul {
