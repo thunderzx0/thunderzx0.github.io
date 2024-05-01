@@ -9,12 +9,16 @@ nav ul {
   text-align: left;
   border-style: solid;
   border-color: silver;
-  list-style-type: none;
   border-radius: 10px;
   padding: 10px;
 }
 nav ul li {
+  list-style-type: none;
   display: inline;
   margin-right: 10px;
   margin-left: 10px;
+  color: gray;
+}
+nav ul li a {
+  text-decoration: none;
 }
