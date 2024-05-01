@@ -28,3 +28,6 @@ nav ul li a {
   text-decoration: none;
   color: black;
 }
+#frontPage {
+  background: linear-gradient(#b0e0e6, #87ceeb);
+}
