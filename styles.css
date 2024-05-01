@@ -9,6 +9,10 @@ img {
   border-style: solid;
   border-color: silver;
 }
+img:hover {
+  width:105%
+  height:105%
+}
 nav ul {
   background-color: white;
   text-align: left;
