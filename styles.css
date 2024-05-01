@@ -32,4 +32,5 @@ nav ul li a {
   background: linear-gradient(to bottom right, powderblue, skyblue);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  animation: slide 10s infinite linear forwards;
 }
