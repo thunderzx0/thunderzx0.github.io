@@ -7,6 +7,10 @@ body {
 nav ul {
   background-color: white;
   text-align: left;
+  border-style: solid;
+  border-color: silver;
+  border-radius: 2px;
+  padding: 10px;
 }
 nav ul li {
   list-style-type: none;
