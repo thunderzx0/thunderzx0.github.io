@@ -9,10 +9,7 @@ img {
   border-style: solid;
   border-color: silver;
 }
-img:hover {
-  width:105%
-  height:105%
-}
+/* Navigation bar styling */
 nav ul {
   background-color: white;
   text-align: left;
@@ -32,9 +29,19 @@ nav ul li a {
   text-decoration: none;
   color: black;
 }
+/* Animation and gradient for the background */
+@keyframes slide {
+    0% {
+        background-position-x: 0;
+    }
+    100% {
+        background-position-x: 600vw;
+    }
+}
 #frontPage {
   background: linear-gradient(to bottom right, powderblue, skyblue);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: 600vw 600vw;
   animation: slide 10s infinite linear forwards;
 }
