@@ -29,5 +29,5 @@ nav ul li a {
   color: black;
 }
 #frontPage {
-  background: linear-gradient(powderblue, skyblue);
+  background: linear-gradient(to bottom right, powderblue, skyblue);
 }
