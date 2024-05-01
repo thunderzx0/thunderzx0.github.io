@@ -17,8 +17,8 @@ nav ul li {
   display: inline;
   margin-right: 10px;
   margin-left: 10px;
-  color: gray;
 }
 nav ul li a {
   text-decoration: none;
+  color: gray;
 }
