@@ -10,6 +10,10 @@ img {
   border-style: solid;
   border-color: silver;
 }
+#catPicture {
+  border-radius: 50%;
+  border-color: black;
+}
 /* Navigation bar styling */
 nav ul {
   background-color: white;
