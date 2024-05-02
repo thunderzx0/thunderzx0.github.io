@@ -11,7 +11,7 @@ img {
   border-color: silver;
 }
 #catPicture {
-  border-radius: 50%;
+  border-radius: 50px;
   border-color: black;
 }
 /* Navigation bar styling */
