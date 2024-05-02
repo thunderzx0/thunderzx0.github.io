@@ -39,7 +39,7 @@ nav ul li a {
 }
 /* Animation and gradient for the background */
 #frontPage {
-  background: linear-gradient(to bottom right, powderblue, skyblue);
+  background: linear-gradient(to bottom right, powderblue, rgb(94, 160, 186));
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
