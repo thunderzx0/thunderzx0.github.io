@@ -1,8 +1,17 @@
+/* Text styling */
 body {
   background-color: powderblue;
   font-family: "Arial";
   color: black;
   text-align: center;
+}
+#musicParagraph {
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+}
+#musicList {
+  line-height: 1;
 }
 /* Image styling */
 img {
@@ -29,6 +38,13 @@ img {
   100% {
     transform: rotate(-360deg);
   }
+}
+#bandlabEmbed {
+  float: right;
+  width: 50%;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 2px;
 }
 /* Divider bar styling */
 .topDivider {
@@ -57,9 +73,14 @@ nav ul li a {
   text-decoration: none;
   color: black;
 }
-/* Animation and gradient for the background */
+/* Background gradients */
 #frontPage {
   background: linear-gradient(to bottom right, powderblue, rgb(68, 144, 174));
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+#aboutMePage {
+  background: linear-gradient(to bottom right, rgb(248, 72, 72), #ff8d8d);
+  background-repeat: no-repeat;
+  background-attachment: fixed
 }
