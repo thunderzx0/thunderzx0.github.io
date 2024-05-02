@@ -11,8 +11,10 @@ img {
   border-color: silver;
 }
 #catPicture {
-  border-radius: 50px;
+  border-radius: 125px;
   border-color: black;
+  width: 250px;
+  height: 250px;
 }
 /* Navigation bar styling */
 nav ul {
