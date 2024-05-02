@@ -13,8 +13,8 @@ img {
 #catPicture {
   border-radius: 999999px;
   border-color: black;
-  width: 35%;
-  height: 35%;
+  width: 30%;
+  height: 30%;
   border-style: ridge;
 }
 #catPicture:hover {
