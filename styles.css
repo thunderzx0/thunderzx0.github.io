@@ -15,6 +15,7 @@ img {
   border-color: black;
   width: 250px;
   height: 250px;
+  border-style: ridge;
 }
 /* Navigation bar styling */
 nav ul {
