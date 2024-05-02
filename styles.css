@@ -17,6 +17,13 @@ img {
   height: 250px;
   border-style: ridge;
 }
+/* Divider bar styling */
+.topDivider {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #000000;
+  padding-bottom: 10px;
+}
 /* Navigation bar styling */
 nav ul {
   background-color: white;
@@ -39,7 +46,7 @@ nav ul li a {
 }
 /* Animation and gradient for the background */
 #frontPage {
-  background: linear-gradient(to bottom right, powderblue, rgb(94, 160, 186));
+  background: linear-gradient(to bottom right, powderblue, rgb(68, 144, 174));
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
