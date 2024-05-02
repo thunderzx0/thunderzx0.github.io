@@ -15,7 +15,7 @@ img {
   border-color: black;
   width: 25%;
   height: 25%;
-  border-style: ridge;
+  border-style: solid;
 }
 #catPicture:hover {
   animation-name: spin;
