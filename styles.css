@@ -50,13 +50,13 @@ img {
   border-width: 2px;
 }
 #minecraftLogo {
-  width: 20%;
+  width: 200px;
   float: left;
   margin-right: 10px; /*Use this instead of padding if you want to space images with a border!*/
 }
 #htmlLogo {
   float:left;
-  width:20%;
+  width:200px;
 }
 /* Divider bar styling */
 .topDivider {
