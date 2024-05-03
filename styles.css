@@ -13,6 +13,9 @@ body {
 #musicList {
   line-height: 1;
 }
+#technologyParagraph {
+  text-align: right;
+}
 /* Image styling */
 img {
   border-radius: 10px;
