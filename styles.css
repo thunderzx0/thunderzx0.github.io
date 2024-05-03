@@ -96,3 +96,8 @@ nav ul li a {
   background-repeat: no-repeat;
   background-attachment: fixed
 }
+#creditsPage {
+  background: linear-gradient(to bottom right, rgb(120, 225, 113), rgb(38, 128, 78));
+  background-repeat: no-repeat;
+  background-attachment: fixed
+}
