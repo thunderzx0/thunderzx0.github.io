@@ -91,7 +91,7 @@ nav ul li a {
 #frontPage {
   background: linear-gradient(to bottom right, powderblue, rgb(68, 144, 174));
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: fixed
 }
 #aboutMePage {
   background: linear-gradient(to bottom right, rgb(248, 72, 72), #ff8d8d);
